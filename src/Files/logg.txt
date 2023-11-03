@@ -1,0 +1,139 @@
+Items in stock: 137
+Items in stock: 115
+Added worker that produces 1  unit per 2 seconds. Number of workers: 29
+Added worker that produces 1  unit per 7 seconds. Number of workers: 28
+Added worker that produces 1  unit per 6 seconds. Number of workers: 27
+Added worker that produces 1  unit per 8 seconds. Number of workers: 26
+Added worker that produces 1  unit per 4 seconds. Number of workers: 25
+Added worker that produces 1  unit per 9 seconds. Number of workers: 24
+Added worker that produces 1  unit per 6 seconds. Number of workers: 23
+Added worker that produces 1  unit per 8 seconds. Number of workers: 22
+Added worker that produces 1  unit per 5 seconds. Number of workers: 21
+Added worker that produces 1  unit per 1 seconds. Number of workers: 20
+Added worker that produces 1  unit per 2 seconds. Number of workers: 19
+Added worker that produces 1  unit per 4 seconds. Number of workers: 18
+Added worker that produces 1  unit per 1 seconds. Number of workers: 17
+Added worker that produces 1  unit per 4 seconds. Number of workers: 16
+Added worker that produces 1  unit per 10 seconds. Number of workers: 15
+Added worker that produces 1  unit per 6 seconds. Number of workers: 14
+Added worker that produces 1  unit per 1 seconds. Number of workers: 13
+Added worker that produces 1  unit per 3 seconds. Number of workers: 12
+Added worker that produces 1  unit per 5 seconds. Number of workers: 11
+Added worker that produces 1  unit per 7 seconds. Number of workers: 10
+Added worker that produces 1  unit per 5 seconds. Number of workers: 9
+Added worker that produces 1  unit per 6 seconds. Number of workers: 8
+Added worker that produces 1  unit per 10 seconds. Number of workers: 7
+Added worker that produces 1  unit per 2 seconds. Number of workers: 6
+Added worker that produces 1  unit per 2 seconds. Number of workers: 5
+Added worker that produces 1  unit per 2 seconds. Number of workers: 4
+Added worker that produces 1  unit per 9 seconds. Number of workers: 3
+Added worker that produces 1  unit per 1 seconds. Number of workers: 2
+Added worker that produces 1  unit per 1 seconds. Number of workers: 1
+Items in stock: 121
+Items in stock: 150
+Items in stock: 150
+Items in stock: 0
+Warning! Stock to low, hire new workers
+Warning! Stock to low, hire new workers
+Items in stock: 77
+Added worker that produces 1  unit per 7 seconds. Number of workers: 8
+Added worker that produces 1  unit per 6 seconds. Number of workers: 7
+Added worker that produces 1  unit per 7 seconds. Number of workers: 6
+Items in stock: 129
+Added worker that produces 1  unit per 2 seconds. Number of workers: 5
+Added worker that produces 1  unit per 5 seconds. Number of workers: 4
+Added worker that produces 1  unit per 8 seconds. Number of workers: 3
+Added worker that produces 1  unit per 3 seconds. Number of workers: 2
+Added worker that produces 1  unit per 1 seconds. Number of workers: 1
+Items in stock: 150
+Items in stock: 0
+Items in stock: 2
+Added worker that produces 1  unit per 7 seconds. Number of workers: 83
+Added worker that produces 1  unit per 7 seconds. Number of workers: 82
+Added worker that produces 1  unit per 1 seconds. Number of workers: 81
+Added worker that produces 1  unit per 4 seconds. Number of workers: 80
+Added worker that produces 1  unit per 9 seconds. Number of workers: 79
+Added worker that produces 1  unit per 9 seconds. Number of workers: 78
+Added worker that produces 1  unit per 8 seconds. Number of workers: 77
+Added worker that produces 1  unit per 1 seconds. Number of workers: 76
+Added worker that produces 1  unit per 10 seconds. Number of workers: 75
+Added worker that produces 1  unit per 8 seconds. Number of workers: 74
+Added worker that produces 1  unit per 2 seconds. Number of workers: 73
+Added worker that produces 1  unit per 8 seconds. Number of workers: 72
+Added worker that produces 1  unit per 5 seconds. Number of workers: 71
+Added worker that produces 1  unit per 3 seconds. Number of workers: 70
+Items in stock: 0
+Added worker that produces 1  unit per 2 seconds. Number of workers: 69
+Added worker that produces 1  unit per 4 seconds. Number of workers: 68
+Added worker that produces 1  unit per 3 seconds. Number of workers: 67
+Added worker that produces 1  unit per 4 seconds. Number of workers: 66
+Added worker that produces 1  unit per 6 seconds. Number of workers: 65
+Added worker that produces 1  unit per 8 seconds. Number of workers: 64
+Added worker that produces 1  unit per 4 seconds. Number of workers: 63
+Added worker that produces 1  unit per 3 seconds. Number of workers: 62
+Added worker that produces 1  unit per 5 seconds. Number of workers: 61
+Added worker that produces 1  unit per 10 seconds. Number of workers: 60
+Added worker that produces 1  unit per 3 seconds. Number of workers: 59
+Added worker that produces 1  unit per 6 seconds. Number of workers: 58
+Added worker that produces 1  unit per 6 seconds. Number of workers: 57
+Added worker that produces 1  unit per 7 seconds. Number of workers: 56
+Added worker that produces 1  unit per 4 seconds. Number of workers: 55
+Added worker that produces 1  unit per 1 seconds. Number of workers: 54
+Added worker that produces 1  unit per 8 seconds. Number of workers: 53
+Added worker that produces 1  unit per 3 seconds. Number of workers: 52
+Added worker that produces 1  unit per 8 seconds. Number of workers: 51
+Added worker that produces 1  unit per 8 seconds. Number of workers: 50
+Added worker that produces 1  unit per 5 seconds. Number of workers: 49
+Added worker that produces 1  unit per 4 seconds. Number of workers: 48
+Added worker that produces 1  unit per 7 seconds. Number of workers: 47
+Added worker that produces 1  unit per 4 seconds. Number of workers: 46
+Added worker that produces 1  unit per 6 seconds. Number of workers: 45
+Added worker that produces 1  unit per 10 seconds. Number of workers: 44
+Added worker that produces 1  unit per 5 seconds. Number of workers: 43
+Added worker that produces 1  unit per 4 seconds. Number of workers: 42
+Added worker that produces 1  unit per 2 seconds. Number of workers: 41
+Added worker that produces 1  unit per 8 seconds. Number of workers: 40
+Added worker that produces 1  unit per 7 seconds. Number of workers: 39
+Added worker that produces 1  unit per 9 seconds. Number of workers: 38
+Added worker that produces 1  unit per 10 seconds. Number of workers: 37
+Added worker that produces 1  unit per 10 seconds. Number of workers: 36
+Added worker that produces 1  unit per 5 seconds. Number of workers: 35
+Added worker that produces 1  unit per 9 seconds. Number of workers: 34
+Added worker that produces 1  unit per 5 seconds. Number of workers: 33
+Added worker that produces 1  unit per 1 seconds. Number of workers: 32
+Items in stock: 0
+Added worker that produces 1  unit per 5 seconds. Number of workers: 31
+Added worker that produces 1  unit per 1 seconds. Number of workers: 30
+Added worker that produces 1  unit per 10 seconds. Number of workers: 29
+Added worker that produces 1  unit per 10 seconds. Number of workers: 28
+Added worker that produces 1  unit per 1 seconds. Number of workers: 27
+Added worker that produces 1  unit per 2 seconds. Number of workers: 26
+Added worker that produces 1  unit per 6 seconds. Number of workers: 25
+Added worker that produces 1  unit per 7 seconds. Number of workers: 24
+Added worker that produces 1  unit per 1 seconds. Number of workers: 23
+Added worker that produces 1  unit per 8 seconds. Number of workers: 22
+Added worker that produces 1  unit per 6 seconds. Number of workers: 21
+Added worker that produces 1  unit per 7 seconds. Number of workers: 20
+Added worker that produces 1  unit per 5 seconds. Number of workers: 19
+Added worker that produces 1  unit per 6 seconds. Number of workers: 18
+Added worker that produces 1  unit per 6 seconds. Number of workers: 17
+Added worker that produces 1  unit per 3 seconds. Number of workers: 16
+Added worker that produces 1  unit per 5 seconds. Number of workers: 15
+Added worker that produces 1  unit per 9 seconds. Number of workers: 14
+Added worker that produces 1  unit per 9 seconds. Number of workers: 13
+Added worker that produces 1  unit per 9 seconds. Number of workers: 12
+Added worker that produces 1  unit per 3 seconds. Number of workers: 11
+Added worker that produces 1  unit per 1 seconds. Number of workers: 10
+Added worker that produces 1  unit per 10 seconds. Number of workers: 9
+Added worker that produces 1  unit per 1 seconds. Number of workers: 8
+Added worker that produces 1  unit per 5 seconds. Number of workers: 7
+Added worker that produces 1  unit per 3 seconds. Number of workers: 6
+Added worker that produces 1  unit per 3 seconds. Number of workers: 5
+Added worker that produces 1  unit per 4 seconds. Number of workers: 4
+Added worker that produces 1  unit per 7 seconds. Number of workers: 3
+Added worker that produces 1  unit per 4 seconds. Number of workers: 2
+Items in stock: 10
+Warning! Stock to low, hire new workers
+Added worker that produces 1  unit per 9 seconds. Number of workers: 1
+Items in stock: 109
+Items in stock: 150
